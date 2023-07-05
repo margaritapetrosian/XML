@@ -1,1 +1,9 @@
-
+<bug_report.xml>
+<id>2</id>
+<title>Отписание в формате Что-Где-Когда</title>
+<severity>в формате 1-Critical указано северити</severity>
+<description>Описание шагов</description>
+<expected_result>Описание ожидаемого результата</expected_result>
+<actual_result>Описание реального результата</actual_result>
+<attachment>Cсылка на аттач</attachment>
+</bug_report.xml>
